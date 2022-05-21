@@ -32,3 +32,6 @@ inventor.patronage.list.label.patronage.identify.startsAt = Fecha de inicio
 inventor.patronage.list.label.patronage.identify.finishesAt = Fecha final
 inventor.patronage.list.label.patronage.identify.link = Link
 
+administrator.announcement.strongspam= Spam Fuerte
+administrator.announcement.weakspam= Spam Débil
+
