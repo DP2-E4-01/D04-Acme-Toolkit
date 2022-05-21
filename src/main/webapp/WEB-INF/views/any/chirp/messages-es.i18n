@@ -26,3 +26,5 @@ any.chirp.form.button.create = Crear
 any.chirp.accept.error = Confirma la creación por favor
 
 any.chirp.list.button.create = Crear 
+administrator.announcement.strongspam= Spam Fuerte
+administrator.announcement.weakspam= Spam Débil
